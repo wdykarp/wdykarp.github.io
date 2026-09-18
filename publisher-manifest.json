@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "0bd52bef745b6ba99098ea65",
+  "owner": "wdykarp",
+  "repo": "wdykarp.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "f46857c8383105b53fce8645",
+      "a": "Miru",
+      "b": "首页",
+      "entity": "Miru",
+      "brand": "首页",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "120667b6df5a8af981a6f3e37de3b1eaa31ec9a2b91308adc8ea6445d852b590",
+      "content": {
+        "primary_entity": "Miru",
+        "keyword1": "Miru",
+        "keyword2": "首页",
+        "content": {
+          "AI_DESCRIPTION": "，Miru 为跨境远程办公、在线学习与流媒体访问提供稳定的海外加速服务。基础版每月 100GB 流量、3 台设备，适合个人轻量使用；旗舰版每月 300GB 流量、5 台设备并配置 IPLC 专线，适合对游戏延迟和流媒体画质有要求的用户；团队版每月 1000GB 流量、20 台设备，面向小型团队协作。所有套餐均可在 Windows、macOS、Android 与 iOS 上依客户端文档完成订阅导入。",
+          "AI_HERO_SUBTITLE": "多设备订阅，按需选择套餐",
+          "AI_HERO_INTRO": "Miru 是一款面向跨境网络访问的加速服务，提供多档订阅方案。个人用户可从基础版起步，多人办公或娱乐场景适合旗舰版，团队协作则选团队版。选定套餐后按客户端文档配置订阅，即可在多台设备间同步使用。",
+          "AI_VISUAL_TITLE": "Miru 多设备订阅方案",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB，轻量够用",
+          "AI_HIGHLIGHT_2": "旗舰版 5 台设备，IPLC 专线优化",
+          "AI_HIGHLIGHT_3": "团队版 20 台设备，高带宽节点",
+          "AI_FEATURES_TITLE": "套餐与使用方式",
+          "AI_FEATURES_INTRO": "结合设备数量与月度流量需求，选择合适档位并完成订阅配置。",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TEXT_1": "基础版 3 台、旗舰版 5 台、团队版 20 台，覆盖手机、平板与电脑组合。",
+          "AI_FEATURE_TITLE_2": "按流量定周期",
+          "AI_FEATURE_TEXT_2": "月付灵活，年付更省；基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850。",
+          "AI_FEATURE_TITLE_3": "按客户端配置",
+          "AI_FEATURE_TEXT_3": "各平台客户端下载后导入订阅链接即可使用，步骤短、上手快。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数与节点类型上有差异，可按使用人数和月流量习惯对比选择。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLIENTS_INTRO": "Miru 支持在 Windows、macOS、Android 与 iOS 设备上使用客户端，选择与当前设备系统对应的版本下载并导入订阅即可。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "从选择套餐到完成订阅，依次操作可快速上手。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据常用设备数量与月度流量预估，在基础版、旗舰版与团队版之间选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认当前设备的系统版本与客户端版本满足运行条件，并留出稳定网络环境。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "下载对应客户端，按文档导入订阅链接，连接节点后即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐轻松使用",
+          "AI_CLOSING_TEXT": "比较三档套餐后，按设备与流量需求选定并完成订阅配置即可开始。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Miru 支持哪些设备？",
+          "AI_FAQ_ANSWER_1": "Miru 提供手机、电脑和路由器等多个平台的客户端，具体可用版本以客户端下载页说明为准，安装后通过订阅链接导入配置。",
+          "AI_FAQ_QUESTION_2": "套餐可以中途升级吗？",
+          "AI_FAQ_ANSWER_2": "套餐按订阅周期计费，如需更高流量或更多设备数，可在当前周期结束后选择更高档位，具体操作参考账户管理说明。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "年付一次性支付全年费用，月均成本低于按月订阅。基础版年付 150 元，旗舰版 350 元，团队版 850 元。",
+          "AI_FAQ_QUESTION_4": "连接设备数怎么计算？",
+          "AI_FAQ_ANSWER_4": "同时在线设备数按套餐档位限制，基础版 3 台、旗舰版 5 台、团队版 20 台，同一时间超出数量可能无法连接。",
+          "AI_FAQ_QUESTION_5": "订阅链接如何导入客户端？",
+          "AI_FAQ_ANSWER_5": "复制订阅链接后，在客户端的订阅管理或配置导入选项中粘贴，更新节点列表即可使用，具体路径参考该客户端的帮助文档。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "659e1bbe0aa82d1ecddd6d9672e6bbfc6896c2c7e029fd82e3f9264aa9dca3f5",
+    "sitemap.xml": "e6093181d54459bf0c2cf3ae2d8c47e0d8f8d0cc4c0626af0f6ddb9576783baa",
+    "robots.txt": "b9a20ea67e043abb11a462f8be19ad88c05bfba354b0e3ba7f208f639692f70e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "4084d01c60e6e9b06aeb4017e36c9c133d3f06be3a083eb002e5f8daa789dab5"
+}
